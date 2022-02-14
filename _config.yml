@@ -1,15 +1,15 @@
-title:              Clean Blog
-email:              your-email@example.com
-description:        A Blog Theme by Start Bootstrap
-author:             Start Bootstrap
-baseurl:            "/startbootstrap-clean-blog-jekyll"
-url:                "https://startbootstrap.github.io"
+title:              ESCape CTF Blog
+email:              ESCape.ctf@gmail.com
+description:        A Blog For CTF Write Up
+author:             ESCape CTF Team
+baseurl:            "/ESCape-CTF"
+url:                "https://escape-ctf.github.io"
 
 # Social Profiles
-twitter_username:   SBootstrap
-github_username:    StartBootstrap
-facebook_username:  StartBootstrap
-instagram_username:  
+twitter_username:
+github_username:    "ESCape-CTF"
+facebook_username:
+instagram_username:
 linkedin_username:
 
 # Add your google-analytics ID here to activate google analytics
