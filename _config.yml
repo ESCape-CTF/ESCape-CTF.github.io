@@ -3,7 +3,7 @@ email:              ESCape.ctf@gmail.com
 description:        A Blog For CTF Write Up
 author:             ESCape CTF Team
 baseurl:            "/ESCape-CTF"
-url:                "https://escape-ctf.github.io"
+url:                "https://ESCape-ctf.github.io"
 
 # Social Profiles
 twitter_username:
